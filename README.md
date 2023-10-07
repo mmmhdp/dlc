@@ -1,2 +1,2 @@
 # dlc
-dlc course noteboosk and project
+dlc course notebooks and a final project
